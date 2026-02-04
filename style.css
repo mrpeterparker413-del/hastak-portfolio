@@ -70,3 +70,8 @@ body.light #themeToggle {
   background: #ddd;
   color: #000;
 }
+.banner {
+  background-image: url("images/Xarmy.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
